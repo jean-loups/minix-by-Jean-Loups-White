@@ -21,3 +21,6 @@ $ sudo apt-get install g++
 
 Note: On FreeBSD and Minix (compiling for ARM on x86, e.g.), if you get a message along the lines of “Skipping image creation: missing tool 'mcopy'”, please install the emulators/mtools package.
 
+# fist compile bug
+https://paste.ubuntu.com/p/xty58QcYWd/
+
